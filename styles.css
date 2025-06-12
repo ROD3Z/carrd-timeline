@@ -5,6 +5,12 @@ body {
   padding: 0;
 }
 
+html, body {
+  height: auto;
+  min-height: 100%;
+  overflow: visible;
+}
+
 .timeline-container {
   width: 90%;
   max-width: 900px;
